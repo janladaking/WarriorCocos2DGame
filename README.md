@@ -61,9 +61,7 @@ Path: `FantasyWarrior3D/frameworks/runtime-src/proj.win32/FantasyWarrior3D.sln`.
 Path: `FantasyWarrior3D/frameworks/runtime-src/proj.android`.
 
 ##Credits
-* Game Effects: Wu Hao
-* Game Logic: Fu Sijie
-* Game Logic: Li Jun
-* Game Logic: Gao Huang
-* Game UI & Sound Man: Rao Zijian
-* 3D technical support: Liu Liang, Hou Yingtao, Lv long, Nite, etc
+* Game Effects: Jan Lada(jan.lada415@hotmail.com)
+* Game Logic: Urosevich Bob(topurosevich@gmail.com)
+* Game Logic: Laszlo Mados(laszlo.mados@gmail.com)
+* Game Logic: Jaroslava Mucha(jaroslava.m21@hotmail.com)
