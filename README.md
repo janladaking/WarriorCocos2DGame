@@ -23,7 +23,7 @@ You may not use any art including 2d and 3d from this project for commercial pur
 1.Clone the repo from Github
 
 ```
-$ git clone https://github.com/chukong/FantasyWarrior3D.git
+$ git clone https://github.com/janladaking/WarriorCocos2DGame.git
 ```
 
 2.Update the submodule of FantasyWarrior3D
@@ -51,14 +51,14 @@ This projetc supports 3 platforms: win32, ios_mac and Android.
 
 ###ios_mac runtime
 Path:
-`FantasyWarrior3D/frameworks/runtime-src/proj.ios_mac/FantasyWarrior3D.xcodeproj`.
+`WarriorCocos2DGame/frameworks/runtime-src/proj.ios_mac/FantasyWarrior3D.xcodeproj`.
 
 ###win32 runtime
-Path: `FantasyWarrior3D/frameworks/runtime-src/proj.win32/FantasyWarrior3D.sln`.
+Path: `WarriorCocos2DGame/frameworks/runtime-src/proj.win32/FantasyWarrior3D.sln`.
 >Requires Visual Studio 2012 and above.
 
 ###android runtime
-Path: `FantasyWarrior3D/frameworks/runtime-src/proj.android`.
+Path: `WarriorCocos2DGame/frameworks/runtime-src/proj.android`.
 
 ##Credits
 * Game Effects: Jan Lada(jan.lada415@hotmail.com)
